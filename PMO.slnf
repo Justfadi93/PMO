@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "path": "C:\\Users\\Fahad\\source\\Workspaces\\SHCPUNJAB\\PMO\\PMO.sln",
+    "projects": [
+      "PMO.BLL\\PMO.BLL.csproj",
+      "PMO.Entities\\PMO.Entities.csproj",
+      "PMO\\PMO.csproj"
+    ]
+  }
+}
